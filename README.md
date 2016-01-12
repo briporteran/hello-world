@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+First Github project
+Author: Brian Porter
+Description: Hello world project
